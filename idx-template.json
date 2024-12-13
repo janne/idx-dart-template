@@ -1,0 +1,8 @@
+{
+  "name": "Dart",
+  "description": "Used for CLI Dart applications",
+  "categories": ["terminal", "cli"],
+  "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.svg",
+  "website": "https://github.com/janne/idx-dart-template/",
+  "publisher": "Jan Andersson"
+}
